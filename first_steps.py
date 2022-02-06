@@ -2,7 +2,7 @@
 from datetime import date;
 print("Today's date is: " + str(date.today()))
 
-#Second exercise
+#Second exercis
 parsec = 11
 
 lightyears = parsec * 3.26156;
